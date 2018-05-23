@@ -50,6 +50,13 @@ table{
   text-align: center;
 }
 
+.banner {
+ background-image: url ('images/mischa.jpg')
+ background-position: 50% 15%;
+ opacity: 70%;
+ color: white;
+ }
+
 .container{
   width: 800px;
   margin: 30px auto;
